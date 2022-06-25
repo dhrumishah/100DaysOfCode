@@ -11,3 +11,7 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day3](https://twitter.com/deetwts/status/1511016023087931393) : Completed making website
 <br>
+-[Day4](https://twitter.com/deetwts/status/1511373038214066180) : Learnt more about HTML from w3schools
+<br>
+-[Day5](https://twitter.com/deetwts/status/1511751487273140225) : Started learning CSS
+<br>
