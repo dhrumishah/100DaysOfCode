@@ -19,7 +19,7 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day7](https://twitter.com/deetwts/status/1512490548262703104) : Learnt Selector specificity and inheritance
 <br>
--[Day8](https://twitter.com/deetwts/status/1512847583240019968) : Learnt some selectors
+-[Day8](https://twitter.com/deetwts/status/1512847583240019968) : Learnt about some selectors
 <br>
 -[Day9](https://twitter.com/deetwts/status/1513178229409939458) : Continued learning selectors
 <br>
