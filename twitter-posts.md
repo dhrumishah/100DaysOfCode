@@ -24,4 +24,14 @@ Find me on [Twitter](https://twitter.com/deetwts)
 -[Day9](https://twitter.com/deetwts/status/1513178229409939458) : Continued learning selectors
 <br>
 -[Day10](https://twitter.com/deetwts/status/1513562631432400903) : Learnt different properties in CSS
-
+<br>
+-[Day11](https://twitter.com/deetwts/status/1513921224937656322) : Learnt different properties in CSS (cont.)
+<br>
+-[Day12](https://twitter.com/deetwts/status/1514287388012384259) : Learnt different properties in CSS (cont.)
+<br>
+-[Day13](https://twitter.com/deetwts/status/1514646149373722626) : Learnt about gradients
+<br>
+-[Day14](https://twitter.com/deetwts/status/1515027537738362880) : Learnt about flexbox
+<br>
+-[Day15](https://twitter.com/deetwts/status/1515377814681227264) : Learnt about CSS Grid
+<br>
