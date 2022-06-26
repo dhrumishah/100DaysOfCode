@@ -35,3 +35,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day15](https://twitter.com/deetwts/status/1515377814681227264) : Learnt about CSS Grid
 <br>
+-[Day16](https://twitter.com/deetwts/status/1516104278963752960) : Project based on basics from traversymedia
+<br>
