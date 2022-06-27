@@ -39,3 +39,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 17,18](https://twitter.com/deetwts/status/1516838204778811393) : transition
 <br>
+-[Day 19](https://twitter.com/deetwts/status/1517190971590643713) : animation
+<br>
