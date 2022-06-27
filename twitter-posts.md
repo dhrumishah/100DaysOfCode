@@ -37,3 +37,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day16](https://twitter.com/deetwts/status/1516104278963752960) : Project based on basics from traversymedia
 <br>
+-[Day 17,18](https://twitter.com/deetwts/status/1516838204778811393) : transition
+<br>
