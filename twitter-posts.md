@@ -43,3 +43,11 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 20](https://twitter.com/deetwts/status/1517558980184199168) : Started building website
 <br>
+-[Day 21](https://twitter.com/deetwts/status/1517920313601798144) : Continued building website
+<br>
+-[Day 22](https://twitter.com/deetwts/status/1518624047134695424) : Completed building website
+<br>
+-[Day 23](https://twitter.com/deetwts/status/1519357686218862593) : Started learning JS
+<br>
+-[Day 24](https://twitter.com/deetwts/status/1519357686218862593) : Started learning JS
+<br>
