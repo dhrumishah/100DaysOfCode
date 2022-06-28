@@ -61,3 +61,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 29](https://twitter.com/deetwts/status/1521908109903491074) : Revised functions and solved coding challenges
 <br>
+-[Day 30](https://twitter.com/deetwts/status/1522269841079472131) : Arrays
+<br>
