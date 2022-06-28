@@ -51,3 +51,7 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 24](https://twitter.com/deetwts/status/1520077345280851968) : Learnt variables,dataypes,operators
 <br>
+-[Day 25](https://twitter.com/deetwts/status/1520447533356511233) : Template literals, conversion and coersion
+<br>
+-[Day 25](https://twitter.com/deetwts/status/1520447533356511233) : Template literals, conversion and coersion
+<br>
