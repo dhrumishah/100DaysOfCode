@@ -57,3 +57,7 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 27](https://twitter.com/deetwts/status/1521165196672217088) : Switch statement, Ternary operators
 <br>
+-[Day 28](https://twitter.com/deetwts/status/1521534733284352001) : Strict mode, functions, arrow unctions, function calling
+<br>
+-[Day 29](https://twitter.com/deetwts/status/1521908109903491074) : Revised functions and solved coding challenges
+<br>
