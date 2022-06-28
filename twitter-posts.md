@@ -53,5 +53,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 25](https://twitter.com/deetwts/status/1520447533356511233) : Template literals, conversion and coersion
 <br>
--[Day 25](https://twitter.com/deetwts/status/1520447533356511233) : Template literals, conversion and coersion
+-[Day 26](https://twitter.com/deetwts/status/1520796959832825861) : Truthy and falsy values,Equality operators, Boolean logic, Logical operators
 <br>
