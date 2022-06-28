@@ -55,3 +55,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 26](https://twitter.com/deetwts/status/1520796959832825861) : Truthy and falsy values,Equality operators, Boolean logic, Logical operators
 <br>
+-[Day 27](https://twitter.com/deetwts/status/1521165196672217088) : Switch statement, Ternary operators
+<br>
