@@ -49,5 +49,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 23](https://twitter.com/deetwts/status/1519357686218862593) : Started learning JS
 <br>
--[Day 24](https://twitter.com/deetwts/status/1519357686218862593) : Started learning JS
+-[Day 24](https://twitter.com/deetwts/status/1520077345280851968) : Learnt variables,dataypes,operators
 <br>
