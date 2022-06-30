@@ -69,3 +69,5 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 33](https://twitter.com/deetwts/status/1523709674746376192) : Worked on JS project
 <br>
+-[Day 34](https://twitter.com/deetwts/status/1524091281344909313) : Completed project
+<br>
