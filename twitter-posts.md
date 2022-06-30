@@ -63,3 +63,8 @@ Find me on [Twitter](https://twitter.com/deetwts)
 <br>
 -[Day 30](https://twitter.com/deetwts/status/1522269841079472131) : Arrays
 <br>
+-[Day 31](https://twitter.com/deetwts/status/1522653098598039552) : JS objects and methods
+<br>
+-[Day 32](https://twitter.com/deetwts/status/1523273319335665666) : JS Loops
+<br>
+
